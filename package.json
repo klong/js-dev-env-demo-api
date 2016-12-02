@@ -15,8 +15,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/js-dev-env-demo-api"
+    "url": "https://github.com/klong/js-dev-env-demo-api.git"
   },
-  "author": "Cory House",
+  "author": "karl longman - Cory House",
   "license": "MIT"
 }
